@@ -310,7 +310,7 @@ with st.sidebar:
             <div class="summary-row"><span>Accuracy</span><span>86.96%</span></div>
             <div class="summary-row"><span>F1 Score</span><span>88.79%</span></div>
             <div class="summary-row"><span>Dataset</span><span>Heart Disease Dataset</span></div>
-            <div class="summary-row"><span>Developer</span><span>Your Name</span></div>
+            <div class="summary-row"><span>Developer</span><span>Muhammad Kabeer</span></div>
         </div>
         """,
         unsafe_allow_html=True,
