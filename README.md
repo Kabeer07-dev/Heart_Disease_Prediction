@@ -134,7 +134,7 @@ for professional medical advice, diagnosis, or treatment.
 
 ## 👤 Developer
 
-**Your Name**
+**Muhammad Kabeer Jawed**
 Feel free to connect or reach out with questions/suggestions.
 
 ## 📄 License
