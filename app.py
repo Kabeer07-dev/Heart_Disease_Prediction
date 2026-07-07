@@ -6,7 +6,7 @@ using a pre-trained Random Forest model.
 
 Run with:  streamlit run app.py
 
-Author: Your Name
+Author: Muhammad Kabeer Jawed
 """
 
 import joblib
