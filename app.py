@@ -332,8 +332,8 @@ with st.sidebar:
     )
 
     st.markdown("### 🔗 Links")
-    st.markdown("- [GitHub Repository](#)")
-    st.markdown("- [Dataset Source](#)")
+    st.markdown("- [GitHub Repository](https://github.com/Kabeer07-dev/Heart_Disease_Prediction)")
+    st.markdown("- [Dataset Source](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)")
 
 # ============================================================
 # HEADER
